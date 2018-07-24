@@ -1,0 +1,1 @@
+At first copy the dtouch folder in D drive and then install the exe file 
